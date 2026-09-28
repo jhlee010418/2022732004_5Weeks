@@ -40,3 +40,13 @@ This section was created in the branch_pr branch.
 - Commit
 - Push
 - Pull Request
+
+## Branch Practice
+
+This section was created in the branch_pr branch.
+
+- Branch creation
+- File modification
+- Commit
+- Push
+- Pull Request
