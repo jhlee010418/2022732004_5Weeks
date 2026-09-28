@@ -29,3 +29,12 @@ This repository is used for GitHub collaboration practice.
 - Pull Request
 =======
 >>>>>>> 1c45c1c3a292dcfcc52a11e697b12f922806f4dd
+
+
+## Collaborator Practice
+
+- Contributor: LEE SU
+- Student ID: 2022732055
+- Role: Collaborator
+
+I modified this README through a collaborator branch.
