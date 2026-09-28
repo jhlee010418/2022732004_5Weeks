@@ -38,3 +38,12 @@ This repository is used for GitHub collaboration practice.
 - Role: Collaborator
 
 I modified this README through a collaborator branch.
+
+
+## Collaborator Practice
+
+- Contributor: LEE SU
+- Student ID: 2022732055
+- Role: Collaborator
+
+I modified this README through a collaborator branch.
