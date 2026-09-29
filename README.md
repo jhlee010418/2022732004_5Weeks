@@ -1,4 +1,4 @@
-# 2022732004\_5Weeks
+# 2022732004_5Weeks
 # AI Application - Week 5
 
 ## Student Information
