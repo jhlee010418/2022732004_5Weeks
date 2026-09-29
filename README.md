@@ -48,8 +48,8 @@ I modified this README through a collaborator branch.
 
 ## Fork Practice
 
-- Contributor: 본인이름
-- Student ID: 본인학번
+- Contributor: 이수
+- Student ID: 2022732055
 - Method: Fork & Pull Request
 
 This contribution was created from a forked repository.
