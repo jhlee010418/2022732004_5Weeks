@@ -3,7 +3,7 @@
 
 ## Student Information
 
-- Name: 이재형 
+- Name: 이재형
 - Student ID: 2022732004
 - Partner: 이수
 - Course: 인공지능응용
@@ -16,7 +16,6 @@
 - Collaborator
 - Fork
 
-<<<<<<< HEAD
 ## Repository Practice
 
 This repository is used for GitHub collaboration practice.
@@ -27,22 +26,20 @@ This repository is used for GitHub collaboration practice.
 - Commit
 - Branch
 - Pull Request
-=======
->>>>>>> 1c45c1c3a292dcfcc52a11e697b12f922806f4dd
 
+## Branch Practice
 
-## Collaborator Practice
+This section was created in the branch_pr branch.
 
-- Contributor: LEE SU
-- Student ID: 2022732055
-- Role: Collaborator
-
-I modified this README through a collaborator branch.
-
+- Branch creation
+- File modification
+- Commit
+- Push
+- Pull Request
 
 ## Collaborator Practice
 
-- Contributor: LEE SU
+- Contributor: 이수
 - Student ID: 2022732055
 - Role: Collaborator
 
