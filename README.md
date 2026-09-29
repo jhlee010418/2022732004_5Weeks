@@ -36,3 +36,11 @@ This section was created in the branch_pr branch.
 - Commit
 - Push
 - Pull Request
+- 
+## Collaborator Practice
+
+- Contributor: 이수
+- Student ID: 2022732055
+- Role: Collaborator
+
+I modified this README through a collaborator branch.
